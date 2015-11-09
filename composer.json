@@ -1,0 +1,6 @@
+
+{
+    "require": {
+        "serverdensity/sd-api-wrapper": ">=0.7.4"
+    }
+}
